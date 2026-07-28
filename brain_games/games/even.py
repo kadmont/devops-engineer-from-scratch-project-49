@@ -1,9 +1,8 @@
-import random # NOSONAR - safe for game logic
+import random  # NOSONAR - safe for game logic
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
-# Функция-предикат, которая возвращает логическое значение (True или False).
 def is_even(number):
     # Проверяет, является ли число чётным (предикат).
     return number % 2 == 0
