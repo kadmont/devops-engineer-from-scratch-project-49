@@ -3,6 +3,9 @@
 install:
 	uv sync
 
+add-promt:
+	uv add prompt
+
 build:
 	uv build
 
