@@ -10,7 +10,7 @@ build:
 	uv build
 
 package-install:
-	uv pip install dist/*.whl
+	uv tool install dist/*.whl
 
 lint:
 	uv run ruff check
