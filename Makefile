@@ -13,7 +13,7 @@ package-install:
 	uv tool install dist/*.whl
 
 lint:
-	uv run ruff check
+	uv run ruff check brain_games
 
 test:
 	uv run pytest
