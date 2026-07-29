@@ -7,7 +7,7 @@ DESCRIPTION = "What is the result of the expression?"
 # формирует строку вопроса и строку с правильным ответом
 def generate_round():
     # случайный оператор
-    operator = random.choice(['+', '-', '*'])
+    operator = random.choice(['+', '-', '*'])  # NOSONAR
     # случайные числа
     num1 = random.randint(1, 10)  # NOSONAR
     num2 = random.randint(1, 10)  # NOSONAR
