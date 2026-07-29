@@ -1,3 +1,4 @@
+# Точка входа для ввода имени
 from brain_games.cli import welcome_user
 
 
