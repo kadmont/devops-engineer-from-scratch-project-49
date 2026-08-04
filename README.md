@@ -6,5 +6,7 @@
 [![asciicast](https://asciinema.org/a/zyYgy0Uour9e6PvL.svg)](https://asciinema.org/a/zyYgy0Uour9e6PvL)
 ### Демонстрация игры "Калькулятор"
 [![asciicast](https://asciinema.org/a/ZvEA4RyYmyVCgY7D.svg)](https://asciinema.org/a/ZvEA4RyYmyVCgY7D)
-## Демонстрация игры «НОД»
+### Демонстрация игры «НОД»
 [![asciicast](https://asciinema.org/a/jH8S51TC1j2u0iDB.svg)](https://asciinema.org/a/jH8S51TC1j2u0iDB)
+### Демонстрация игры «Арифметическая прогрессия»
+[![asciicast](https://asciinema.org/a/OfIA4ahUGv9we34A.svg)](https://asciinema.org/a/OfIA4ahUGv9we34A)
