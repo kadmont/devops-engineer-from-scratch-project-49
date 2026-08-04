@@ -3,7 +3,7 @@
 ### SonarQube
 [![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=kadmont_devops-engineer-from-scratch-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=kadmont_devops-engineer-from-scratch-project-49)
 ### Демонстрация игры "Проверка на чётность"
-[![asciicast](https://asciinema.org/a/rnN0BQTED21t01n1.svg)](https://asciinema.org/a/rnN0BQTED21t01n1)
+[![asciicast](https://asciinema.org/a/zyYgy0Uour9e6PvL.svg)](https://asciinema.org/a/zyYgy0Uour9e6PvL)
 ### Демонстрация игры "Калькулятор"
 [![asciicast](https://asciinema.org/a/ZvEA4RyYmyVCgY7D.svg)](https://asciinema.org/a/ZvEA4RyYmyVCgY7D)
 ## Демонстрация игры «НОД»
