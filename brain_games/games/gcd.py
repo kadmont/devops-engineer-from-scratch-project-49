@@ -1,4 +1,5 @@
 # Логика игры "НОД"
+
 import math
 import random  # NOSONAR
 

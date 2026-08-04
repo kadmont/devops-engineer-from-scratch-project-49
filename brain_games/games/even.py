@@ -1,4 +1,5 @@
 # Логика игры "Проверка на четность"
+
 import random  # NOSONAR - safe for game logic
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'

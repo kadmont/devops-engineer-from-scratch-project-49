@@ -1,4 +1,5 @@
 # Логика игры "Калькулятор"
+
 import random  # NOSONAR
 
 DESCRIPTION = "What is the result of the expression?"
