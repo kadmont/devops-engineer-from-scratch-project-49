@@ -1,8 +1,9 @@
 # Логика игры "НОД"
-import random  # NOSONAR - safe for game logic
 import math
+import random  # NOSONAR - safe for game logic
 
 DESCRIPTION = "Find the greatest common divisor of given numbers."
+
 
 def generate_round():
     a = random.randint(1, 50)  # NOSONAR

@@ -11,6 +11,7 @@ def generate_round():
     step = random.randint(1, 10)  # NOSONAR
     hidden_index = random.randint(0, length - 1)  # NOSONAR
 
+    # Генерация членов прогрессии по формуле start + i * step
     progression = [str(start + i * step) for i in range(length)]
     correct_answer = progression[hidden_index]
     progression[hidden_index] = '..'
