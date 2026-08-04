@@ -1,6 +1,6 @@
 # Логика игры "Арифметическая прогрессия"
 
-import random  # NOSONAR - safe for game logic
+import random  # NOSONAR
 
 DESCRIPTION = "What number is missing in the progression?"
 

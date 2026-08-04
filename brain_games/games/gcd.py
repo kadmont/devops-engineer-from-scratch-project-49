@@ -1,6 +1,6 @@
 # Логика игры "НОД"
 import math
-import random  # NOSONAR - safe for game logic
+import random  # NOSONAR
 
 DESCRIPTION = "Find the greatest common divisor of given numbers."
 
