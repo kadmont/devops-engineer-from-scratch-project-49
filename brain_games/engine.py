@@ -7,6 +7,7 @@ import prompt
 ROUNDS_COUNT = 3
 
 
+# Функция которую потом будем импортировать.
 def run_game(game_module):
     # Запуск игры с общим циклом вопросов и ответов.
     print("Welcome to the Brain Games!")
